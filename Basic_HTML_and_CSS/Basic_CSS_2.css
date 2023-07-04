@@ -1,0 +1,10 @@
+h1{
+	text-shadow: 3px 3px plum;
+}
+
+p {
+	color: white;
+	background-color: indigo;
+	font-size: large;
+	text-align: right;
+}
