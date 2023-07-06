@@ -1,0 +1,32 @@
+/* CSS for Navigation Bar */
+
+.navbar {
+	height: 30px; 
+	padding: 10px;
+	text-align: center;
+	border-radius: 25px;
+}
+
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar li {
+	display: inline-block;
+	margin-right: 10px;
+	font-size: 25px;
+}
+
+.navbar a {
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 25px;
+}
+
+.navbar a:hover {
+	background-color: #555;
+}
