@@ -1,28 +1,28 @@
 /* CSS for Form Section */
 
-.form {
+.container {
 	background-color: white;
 	padding: 10px;
 	text-align: center;
 }
 
-.form h1 {
+.container h1 {
 	color: black;
 	font-size: 36px;
 }
 
-.form h2 {
+.container h2 {
 	color: black;
 	font-size: 24px;
 	margin-bottom: 20px;
 }
 
-.form p {
+.container p {
 	color: black;
 	text-align: center;
 }
 
-.form form {
+.container form {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
